@@ -1456,3 +1456,22 @@ fieldset[disabled] .btn-theme {
     text-align: right;
   }
 }
+
+
+
+.left_margin_img {
+    width: 130px;
+}
+
+.img_link img {
+    float: left;
+    border: 1px solid #fff;    
+    padding: 0px;
+    width: 120px;
+}
+
+.txt_normal {
+    font-family: Verdana, Arial, Helvetica, sans-serif; 
+    font-size: 10pt;
+    line-height: 12.5pt;
+}
